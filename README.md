@@ -1,5 +1,5 @@
 I'm interested in web programming, formal languages and functional programming. 
-I'm most familiar with Python and TypeScript, and I'm currently learning Prolog.
+I'm most familiar with Python and TypeScript.
 
 ## My projects
 
