@@ -6,7 +6,7 @@ I'm a software engineer. Some of my interests include:
 I'm pretty good with Python and TypeScript. I'm superficially familiar with: C, Java, Kotlin, F#, Haskell, Agda, and I probably forgot some.
 
 Some time ago I started tinkering with **Elm**, which single-handedly made me want to do frontend development again. I'm still figuring
-out 
+out how to do UI design, though.
 
 ## Writing
 
