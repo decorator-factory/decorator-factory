@@ -3,10 +3,7 @@ I'm a software engineer. Some of my interests include:
 - Functional programming
 - Web development
 
-I'm pretty good with Python and TypeScript. I'm superficially familiar with: C, Rust, Java, Kotlin, F#, Haskell, Agda, and I probably forgot some.
-
-Some time ago I started tinkering with **Elm**, which single-handedly made me want to do frontend development again. I'm still figuring
-out how to do UI design, though.
+I am proficient in Python and TypeScript, and I'm currently mastering Rust and Elm.
 
 ## Writing
 
