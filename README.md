@@ -20,8 +20,6 @@ I am proficient in Python and TypeScript, and I'm currently mastering Rust and E
 
 ## Experimental stuff and explorations
 
-I wouldn't say I stand behind completeness or code quality in these projects. Consider these prototypes or proofs of concept :)
-
 - [lanim](https://github.com/decorator-factory/lanim) is a library for making animations in Python, built on functional programming principles.
 - [elm-markup-language-demo](https://github.com/decorator-factory/elm-markup-language-demo) &mdash; I'm making a Lisp-like markup language while I'm learning Elm
 - [py-ast-rule-engine](https://github.com/decorator-factory/py-ast-rule-engine) &mdash; search for patterns in Python code using a giant YAML file
