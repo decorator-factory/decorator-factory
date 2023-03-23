@@ -14,7 +14,7 @@ I am proficient in Python and TypeScript, and I'm currently mastering Rust and E
 
 - [flake8-useless-assert](https://github.com/decorator-factory/flake8-useless-assert), a `flake8` plugin to detect bad `assert` statements
 - [flake8-pep585](https://github.com/decorator-factory/flake8-pep585), a `flake8` plugin to find deprecated imports from `typing` (PEP 585)
-- [mypy-plugin-attempt](https://github.com/decorator-factory/mypy-plugin-attempt) &mdash; I made a plugin for `mypy` and I'm still alive
+- [mypy-plugin-attempt](https://github.com/decorator-factory/mypy-plugin-attempt) &mdash; a demo plugin for `mypy`, a Python type checker
 
 - [pyright-playground](https://github.com/decorator-factory/pyright-playground) lets you play with [Pyright](https://github.com/microsoft/pyright), a Python type checker, in your browser.
 
