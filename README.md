@@ -20,9 +20,9 @@ I am proficient in Python and TypeScript, and I'm currently mastering Rust and E
 
 ## Experimental stuff and explorations
 
-- [lanim](https://github.com/decorator-factory/lanim) is a library for making animations in Python, built on functional programming principles.
-- [elm-markup-language-demo](https://github.com/decorator-factory/elm-markup-language-demo) &mdash; I'm making a Lisp-like markup language while I'm learning Elm
-- [py-ast-rule-engine](https://github.com/decorator-factory/py-ast-rule-engine) &mdash; search for patterns in Python code using a giant YAML file
+- [lanim](https://github.com/decorator-factory/lanim) is a library for making animations in Python, built on functional programming principles
+- [elm-markup-language-demo](https://github.com/decorator-factory/elm-markup-language-demo) &mdash; a Lisp-like markup language for writing articles (project for learning Elm)
+- [py-ast-rule-engine](https://github.com/decorator-factory/py-ast-rule-engine) &mdash; search for patterns in Python code using a YAML specification
 - [ts-generic-rep](https://github.com/decorator-factory/ts-generic-rep) &mdash; type-level lambdas, `map`, `filter` and `reduce` for TypeScript
 - [py-bot-command-parser](https://github.com/decorator-factory/py-bot-command-parser) &mdash; combinator parser for chat bot commands
 - [rs-interpreter-experiments](https://github.com/decorator-factory/rs-interpreter-experiments) &mdash; using different strategies to evaluate the same expression in Rust
