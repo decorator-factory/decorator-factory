@@ -36,3 +36,4 @@ I am proficient in Python and TypeScript, and I'm currently mastering Rust and E
 
 - Email: `decorator-factory@protonmail.com`
 - Telegram: [`@decorator_factory`](https://t.me/decorator_factory)
+- Discord: `decorator_factory`
