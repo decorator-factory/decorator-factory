@@ -14,7 +14,7 @@ I'm a software engineer. Some of my interests include:
 - [flake8-pep585](https://github.com/decorator-factory/flake8-pep585), a `flake8` plugin to find deprecated imports from `typing` (PEP 585)
 - [mypy-plugin-attempt](https://github.com/decorator-factory/mypy-plugin-attempt) &mdash; a demo plugin for `mypy`, a Python type checker
 
-- [pyright-playground](https://github.com/decorator-factory/pyright-playground) lets you play with [Pyright](https://github.com/microsoft/pyright), a Python type checker, in your browser.
+- [pyright-playground](https://github.com/decorator-factory/pyright-playground) (archived) lets you play with [Pyright](https://github.com/microsoft/pyright), a Python type checker, in your browser.
 
 ## Experimental stuff and explorations
 
