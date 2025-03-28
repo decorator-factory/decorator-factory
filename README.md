@@ -6,7 +6,6 @@ I'm a software engineer. Some of my interests include:
 ## Writing
 
 - [typing-tips](https://decorator-factory.github.io/typing-tips/), a collection of articles about Python's gradual typing system
-- [py-simpleparser](https://github.com/decorator-factory/py-simpleparser) &mdash; my hot take on parsing unstructured data
 
 ## Linters
 
