@@ -28,9 +28,3 @@ I'm a software engineer. Some of my interests include:
 
 - ⛳ [Code Golf](https://code.golf/golfers/decorator-factory)
 - 🥞 [Stack Overflow](https://stackoverflow.com/users/10295729/decorator-factory)
-
-## Contact me
-
-- Email: `decorator-factory@protonmail.com`
-- Telegram: [`@decorator_factory`](https://t.me/decorator_factory)
-- Discord: `decorator_factory`
