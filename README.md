@@ -6,7 +6,7 @@ I'm a software engineer. Some of my interests include:
 ## Current projects
 
 - [typing-tips](https://decorator-factory.github.io/typing-tips/) &mdash; a collection of articles about Python's gradual typing system
-- [cryptograms](https://decorator-factory.github.io/cryptograms/) &mdash; Decipher quotes about software
+- [cryptograms](https://decorator-factory.github.io/cryptograms/) &mdash; decipher quotes about software
 
 ## Linters
 
