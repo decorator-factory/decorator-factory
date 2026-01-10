@@ -7,6 +7,7 @@ I'm a software engineer. Some of my interests include:
 
 - [typing-tips](https://decorator-factory.github.io/typing-tips/) &mdash; a collection of articles about Python's gradual typing system
 - [cryptograms](https://decorator-factory.github.io/cryptograms/) &mdash; decipher quotes about software
+- [python-re-quiz](https://github.com/decorator-factory/python-re-quiz) &mdash; quiz about the Python `re` module
 
 ## Linters
 
