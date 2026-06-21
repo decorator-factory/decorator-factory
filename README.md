@@ -1,10 +1,5 @@
-I'm a software engineer. Some of my interests include:
-- Formal languages
-- Functional programming
-- Web development
-
+ 
 ## Current projects
-
 - [typing-tips](https://decorator-factory.github.io/typing-tips/) &mdash; a collection of articles about Python's gradual typing system
 - [cryptograms](https://decorator-factory.github.io/cryptograms/) &mdash; decipher quotes about software
 - [python-re-quiz](https://github.com/decorator-factory/python-re-quiz) &mdash; quiz about the Python `re` module
@@ -27,5 +22,6 @@ I'm a software engineer. Some of my interests include:
 
 ## Other platforms
 
+- ⛰️ [Codeberg](https://codeberg.org/decorator-factory)
 - ⛳ [Code Golf](https://code.golf/golfers/decorator-factory)
 - 🥞 [Stack Overflow](https://stackoverflow.com/users/10295729/decorator-factory)
